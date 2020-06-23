@@ -22,9 +22,9 @@ a parallel vector.
 
 O being the origin of the coordinate system, and X, Y and Z the axis, the surfaces that must be handled
 in this project are:
-   • O-centered spheres,
-   • Cylinders of revolution around Z axis,
-   • Cones of revolution around Z axis whose apex is O.
+   - O-centered spheres,
+   - Cylinders of revolution around Z axis,
+   - Cones of revolution around Z axis whose apex is O.
 
 ## Nao Marvin
 
